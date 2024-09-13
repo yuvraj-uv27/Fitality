@@ -1,0 +1,7 @@
+/* src/fonts.css */
+@font-face {
+  font-family: 'MonumentExtended-Regular';
+  src: url('/fonts/MonumentExtended-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
